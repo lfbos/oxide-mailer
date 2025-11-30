@@ -1,1 +1,10 @@
 /target
+
+# SQLx specific ignores
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+sqlx-data.json
+.sqlx
